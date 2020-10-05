@@ -6,6 +6,7 @@ The purpose of this analysis was to discover the impact that both the launch dat
 <img width="538" alt="Theater Outcomes vs Launch" src="https://user-images.githubusercontent.com/71742174/95038175-24a9d080-0693-11eb-9804-f04cdf9e3d91.png">
 
 ### Outcomes Based on Goals
+<img width="336" alt="Outcomes Vs  Goals" src="https://user-images.githubusercontent.com/71742174/95038248-46a35300-0693-11eb-98c1-36c0665ecd2d.png">
 
 ---
 # Analysis
