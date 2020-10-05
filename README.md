@@ -1,4 +1,12 @@
 # An Analysis of Kickstarter Campaigns
+The purpose of this analysis was to discover the impact that both the launch date and the goal amount set for a Kickstarter campaign has on its potential success. 
+
+---
+### Outcomes Based on Launch Dates
+
+### Outcomes Based on Goals
+
+---
 # Analysis
 Challenges I faced during  this project were mostly technical and trying to get the information sorted in Excel, this could have posed a much bigger problem if I hadn’t noticed it because an issue in a formula or not referencing the proper sheet/column/row can throw off data and not give you any helpful information. There were a few times that I had to go back and correct formulas used in my Excel sheets.  
 Two things I can conclude from the Theater Outcomes based on launch date info is that the best time to try and get funding for a campaign for plays is some time around mid-year, particularly around May and June because the success of Kickstarters that began around this time is extremely high. On the flipside, trying to get a campaign funded in the latter part of the year during Nov. and Dec. is likely to lead to a failed campaign, as many of the projects that began around this time were not successful.  
