@@ -5,8 +5,9 @@ The purpose of this analysis was to discover the impact that both the launch dat
 ### Outcomes Based on Launch Dates
 <img width="538" alt="Theater Outcomes vs Launch" src="https://user-images.githubusercontent.com/71742174/95038175-24a9d080-0693-11eb-9804-f04cdf9e3d91.png">
 Here, I had to analyze the time of the year that Kickstarter campaigns that focused on funding for plays seemed to do the best. To do that, I filtered the dataset to include only plays and referenced the dates given to create a line graph that levied dates launched vs success of campaigns that were trying to fund a play. 
+
 ### Outcomes Based on Goals
-<img width="336" alt="Outcomes Vs  Goals" src="https://user-images.githubusercontent.com/71742174/95038248-46a35300-0693-11eb-98c1-36c0665ecd2d.png">
+For this chart, I sorted the information by it’s level of success, whether is was successful, if it failed or if it was canceled and weighed that against how much each campaign had requested for its project to be funded. This was done to see the impact that the goal amount has on the success of a given campaign, in this case we were specifically focused on plays.
 
 ---
 # Analysis
