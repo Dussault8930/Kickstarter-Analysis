@@ -3,7 +3,7 @@ The purpose of this analysis was to discover the impact that both the launch dat
 
 ---
 ### Outcomes Based on Launch Dates
-
+[Outcomes Based on Date] (/Theater_Outcomes_Vs._Launch.png)
 ### Outcomes Based on Goals
 
 ---
